@@ -1,0 +1,20 @@
+
+  .demo{
+    display: inline-block;
+    margin: 10px;
+    justify-content: space-between;
+    border: 2px solid white; 
+    text-align: center;
+    width: 300px;
+    background:linear-gradient(135deg,rgb(242, 195, 108),white,rgb(106, 231, 106));
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 3px;
+  }
+  img{
+    width: 200px;
+    height: 170px;
+    border-radius: 50%;
+  }
+ body{
+    background-color: rgb(176, 167, 167);
+ }
